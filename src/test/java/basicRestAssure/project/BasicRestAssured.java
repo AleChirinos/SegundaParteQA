@@ -1,4 +1,4 @@
-package basicRestAssure;
+package basicRestAssure.project;
 import org.json.JSONObject;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package basicRestAssure;
+package basicRestAssure.project;
 
 import io.restassured.response.Response;
 import org.json.JSONObject;
